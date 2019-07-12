@@ -10,7 +10,7 @@ and measure the evolution of positions over time.  It is optimistic.
 Current implementation of this project is utilizing a python 2.x based open source platform called 
 [Media Drop](https://github.com/mediadrop/mediadrop) hosted on Google App Engine.
 
-## Future State
+## gFuture State
 * Video Aggregation Tools to auto-archive web-content
 * Image ML to auto-attribute video content
 
